@@ -31,23 +31,16 @@ WhatsApp Bot
 
 ## `SCAN QR`
 
-[`Click Here`](https://replit.com/@HYPER-MOD/Queen-Alexa-QR-Code)
+[`Click Here`](https://replit.com/@timashatimasha/Queen-Alexa-QR-Code-1#index.js   )
 
-## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/session.json#L1)
 
 ## `SETTING`
 
-- Owner number [Here](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/settings.json#L4)
-- Owner Name [Here](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/settings.json#L14)
-- Bot Name [Here](https://github.com/HYPER-MOD/Queen-Alexa/blob/main/settings.json#L15)
+- Owner number [Here](https://github.com/timashatimasha/Queen-Alexa/blob/main/settings.json#L4)
+- Owner Name [Here](https://github.com/timashatimasha/Queen-Alexa/blob/main/settings.json#L4)
+- Bot Name [Here](https://github.com/timashatimasha/Queen-Alexa/blob/main/settings.json#L4)
 
-## `CHANGE DYNO`
-
-Off in web ny | ඔෆ් කරන්න web එක | turn off web button.
-
-----------
 
 <p align="center">
   <a href="https://youtube.com/c/HYPERMOD"><img src="https://i.ibb.co/TPqc8cv/Screenshot-2021-10-14-12-00-45-610-com-android-chrome.jpg" />
@@ -64,6 +57,3 @@ Off in web ny | ඔෆ් කරන්න web එක | turn off web button.
 </p>
 
 
-## ```COFFEE```
-
-- [`SAWERIA`](https://saweria.co/hypermod)
